@@ -16,8 +16,8 @@
       <file leaf-file-name="header.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header/css/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="155" column="19" lean-forward="false" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+            <state relative-caret-position="396">
+              <caret line="158" column="14" lean-forward="true" selection-start-line="158" selection-start-column="14" selection-end-line="158" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -86,7 +86,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
     <option name="y" value="44" />
     <option name="width" value="1281" />
@@ -119,12 +119,6 @@
               <item name="Kumpel" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kumpel" type="462c0819:PsiDirectoryNode" />
               <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kumpel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kumpel" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kumpel" type="b2602c69:ProjectViewProjectNode" />
@@ -205,15 +199,15 @@
       <workItem from="1511529167395" duration="10325000" />
       <workItem from="1511781402061" duration="6246000" />
       <workItem from="1511902537487" duration="1078000" />
-      <workItem from="1512055531135" duration="4375000" />
+      <workItem from="1512055531135" duration="5371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63196000" />
+    <option name="totallyTimeSpent" value="64192000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="44" width="1303" height="780" extended-state="7" />
+    <frame x="75" y="44" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3004695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -544,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="155" column="19" lean-forward="false" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+        <state relative-caret-position="396">
+          <caret line="158" column="14" lean-forward="true" selection-start-line="158" selection-start-column="14" selection-end-line="158" selection-end-column="14" />
           <folding />
         </state>
       </provider>
